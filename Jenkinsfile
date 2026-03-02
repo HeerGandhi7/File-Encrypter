@@ -1,4 +1,4 @@
-node {
+node('agent1') {
     stage('Build') {
         echo "Building Java project..."
         sh '''
