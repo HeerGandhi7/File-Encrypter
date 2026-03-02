@@ -22,4 +22,4 @@ node {
             echo "Deployment successful"
         '''
     }
-}x
+}
